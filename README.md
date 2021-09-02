@@ -8,7 +8,7 @@
 
 简介：VPS综合性能测试脚本 （包含性能、速度、回程路由）
 
-首发: https://www.yksbl.com
+首发: https://www.yksbl.com/wzjs/vpsjc/841.html
 
 脚本测速会大量消耗 VPS 流量，请悉知！
 
